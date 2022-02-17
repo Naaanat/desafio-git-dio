@@ -1,0 +1,14 @@
+Objetivo do curso:
+
+Ter uma visão geral do ecossistema .NET através de suas ferramentas, linguagens, padrões e usabilidade.
+
+
+Aula 1: Visão Geral do Ecossistema .NET
+
+Aula 2: Sobre .NET Framework, .NET Core e Xamarin
+
+Aula 3: Padrão de codificação .NET
+
+Aula 4: Ferramentas e Linguagens
+
+Aula 5: O que usar? Quando usar?
