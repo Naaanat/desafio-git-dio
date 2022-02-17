@@ -1,3 +1,17 @@
 Notas importantes:
 
- 
+git clone ..o link..
+
+cd ..pasta...
+
+git status
+
+git add .
+
+git status
+
+git commit -m "comentario"
+
+git status
+
+git push origin main
