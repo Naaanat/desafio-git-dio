@@ -1,0 +1,27 @@
+Objetivos:
+
+1. .NET x ASP.NET: Conceitos e caracteristicas
+
+2. Um pouco da história
+
+
+.NET - Plataforma de desenvolvimento com diversas ferramentas, linguagens de progamação e bibliotecas que permitem o desenvolvimento de diversos tipos e aplicações
+
+ASP.NET - Framework que estende .NET para criação de web apps.
+
+Sobre .NET:
+
+> Gratuita e de softwarre livre
+> Plataforma cruzada
+> Tipos de aplicação:
+* Web
+* Mobile
+* Desktop
+* Microservices
+* CLoud
+* Machine Learning
+* Jogos
+* IoT
+
+> Especificações das APIs que são comuns às implementações .NET
+
